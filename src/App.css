@@ -1,0 +1,10 @@
+.recipe-title {
+    font-size: 1.5rem;
+  }
+  
+  @media (max-width: 768px) {
+    .recipe-title {
+      font-size: 1.2rem;
+    }
+  }
+  
